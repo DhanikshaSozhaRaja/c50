@@ -1,0 +1,30 @@
+            h1{
+                color:blueviolet;
+               
+            }
+            *{
+                border:solid;
+                margin: 5px;
+            }
+   .header{         
+       background-color:cornsilk;
+       text-align:center;
+   }
+   .header h1{  
+     color:crimson; 
+    display:flex; 
+    text-align:center;
+   }
+   .grid{
+       display:flex;
+       flex-wrap:wrap;
+       justify-content:space-evenly;
+   }
+   .footer{
+       display:flex;
+       justify-content:space-around; 
+       margin: 5px;      
+   }
+   p,h2{
+       text-align:center;
+   }
